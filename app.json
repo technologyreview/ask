@@ -1,7 +1,7 @@
 {
  "name": "Ask",
  "description": "Ask App",
- "repository": "https://github.com/coralproject/ask",
+ "repository": "https://github.com/technologyreview/ask",
  "keywords": ["ask"],
  "addons": [
    {
@@ -10,7 +10,7 @@
  ],
  "buildpacks": [
    {
-     "url": "https://github.com/coralproject/heroku-buildpack-coralproject"
+     "url": "https://github.com/technologyreview/heroku-buildpack-coralproject"
    }
  ]
 }
