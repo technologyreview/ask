@@ -68,8 +68,8 @@ cat << EOF >> public/config.json
   "environment": "development",
   "brand": "Coral Project",
   "googleAnalyticsId": "UA-12345678-9",
-  "requireLogin": false,
-  "basicAuthorization": "",
+  "requireLogin": true,
+  "basicAuthorization": "askandyoushallrecieve2016",
   "features": {
     "trust": false,
     "ask": true
